@@ -1,2 +1,3 @@
-# randomgrounds
-random wallpapers I made.
+# RANDOM backGROUNDS
+
+Random Wallpapers, Backgrounds I make when I am bored.
